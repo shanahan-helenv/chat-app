@@ -25,3 +25,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-06
 - Added basic usage examples to README
+
+## 2026-05-06
+- Documented config options
+- Added .editorconfig for consistent formatting
+- Improved error handling in edge cases
